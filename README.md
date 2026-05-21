@@ -39,7 +39,7 @@ The project also includes interactive financial visualizations and a Streamlit d
 
 # 📊 Dataset
 
-The project uses historical stock market datasets of multiple Indian companies (NIFTY50 stocks).
+The project uses historical stock market datasets of multiple Indian companies.
 
 Dataset contains:
 
@@ -62,7 +62,7 @@ It helps in learning stock market trends and predicting future prices based on h
 
 ---
 
-# 📈 Dashboard Preview
+# 📈 Dashboard Features
 
 The dashboard provides:
 
@@ -96,9 +96,8 @@ for evaluating prediction performance.
 
 ## Install Required Libraries
 
-
-streamlit run app.py
-
+```bash
+pip install -r requirements.txt
 
 Stock-Price-Prediction-System/
 │
@@ -114,10 +113,3 @@ Conclusion
 This project demonstrates the application of Deep Learning and Time Series Forecasting in stock market analysis.
 
 The system successfully predicts future stock prices and provides an interactive dashboard for financial analysis.
-
-👨‍💻 Developed By
-
-Deepak Baranwal
-
-```bash
-pip install -r requirements.txt
