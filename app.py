@@ -67,10 +67,7 @@ st.sidebar.write("✅ Future 7-Day Forecast")
 st.sidebar.write("✅ Candlestick chart")
 st.sidebar.markdown("---")
 
-st.set_page_config(
-    page_title="Stock Price Prediction System",
-    layout="wide"
-)
+
 
 st.title("📈 Stock Price Prediction System")
 
